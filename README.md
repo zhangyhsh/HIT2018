@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎来到HIT2018 
 
 You can use the [editor on GitHub](https://github.com/zhangyhsh/HIT2018/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
